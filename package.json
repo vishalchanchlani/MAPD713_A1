@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "REST API - Users",
     "dependencies": {
-        "restify": "^4.1.1",
+        "restify": "^4.3.4",
         "save": "^2.3.0"
     },
     "author": "zvbox",
